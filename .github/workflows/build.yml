@@ -24,6 +24,7 @@ jobs:
       matrix:
         PLATFORM:
           - rock-5b
+          - rock-5bplus
           - rock-5a
           - rock-5-itx
           - orangepi-5
